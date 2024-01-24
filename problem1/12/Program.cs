@@ -26,11 +26,10 @@ public class Program
         Console.WriteLine();
         Console.WriteLine($"Dot product of row and column of a minimal " +
             $"element of this matrix:");
-        int rowIndex = matrix.IndexOf(matrix.Min).Item1;
-        int columnindex = matrix.IndexOf(matrix.Min).Item2;
+        Tuple<int, int> minIndex = matrix.IndexOf(matrix.Min);
         Console.WriteLine(DotProduct(
-            matrix.GetRow(rowIndex),
-            matrix.GetColumn(columnindex)
+            matrix.GetRow(minIndex.Item1),
+            matrix.GetColumn(minIndex.Item2)
             ));
     }
 }

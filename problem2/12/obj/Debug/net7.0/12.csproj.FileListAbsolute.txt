@@ -1,0 +1,15 @@
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/obj/Debug/net7.0/12.csproj.AssemblyReference.cache
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/obj/Debug/net7.0/12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/obj/Debug/net7.0/12.AssemblyInfoInputs.cache
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/obj/Debug/net7.0/12.AssemblyInfo.cs
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/obj/Debug/net7.0/12.csproj.CoreCompileInputs.cache
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/bin/Debug/net7.0/12
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/bin/Debug/net7.0/12.deps.json
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/bin/Debug/net7.0/12.runtimeconfig.json
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/bin/Debug/net7.0/12.dll
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/bin/Debug/net7.0/12.pdb
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/obj/Debug/net7.0/12.dll
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/obj/Debug/net7.0/refint/12.dll
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/obj/Debug/net7.0/12.pdb
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/obj/Debug/net7.0/12.genruntimeconfig.cache
+/Users/ihorlenko/Projects/extra_csharp_course/problem2/12/obj/Debug/net7.0/ref/12.dll

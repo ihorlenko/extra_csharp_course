@@ -24,6 +24,7 @@ namespace MatrixLib
                 return min;
             }
         }
+        private static readonly Random rand = new Random();
         
         public SquareMatrix(int size)
         {
@@ -33,8 +34,6 @@ namespace MatrixLib
 
         public void FillWithRandom()
         {
-            Random rand = new Random();
-
             for (int i = 0; i < size; ++i)
             {
                 for (int j = 0; j < size; ++j)
