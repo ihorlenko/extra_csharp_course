@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{5FC0E1E1-AAA1-4E88-987A-A8AF49C86BDF}|Default">
-  <MonoDevelop.Ide.ItemProperties.12 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MatrixLib.cs">
+    <Files>
+      <File FileName="Program.cs" Line="19" Column="64" />
+      <File FileName="MatrixLib.cs" Line="30" Column="1" />
+      <File FileName="MathLib.cs" Line="51" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="12" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.12 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
