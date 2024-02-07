@@ -1,24 +1,20 @@
 ﻿<Properties StartupConfiguration="{4FADAF11-7191-4632-9AFC-2AFC7A1BCF6B}|Default">
-  <MonoDevelop.Ide.ItemProperties.12 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TextJustification.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StreamWriterExtension.cs">
     <Files>
-      <File FileName="Program.cs" Line="5" Column="1" />
-      <File FileName="TextJustification.cs" Line="7" Column="17" />
+      <File FileName="Program.cs" Line="17" Column="2" />
+      <File FileName="StreamWriterExtension.cs" Line="31" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="12" expanded="True">
-            <Node name="12" expanded="True" selected="True" />
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.12 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

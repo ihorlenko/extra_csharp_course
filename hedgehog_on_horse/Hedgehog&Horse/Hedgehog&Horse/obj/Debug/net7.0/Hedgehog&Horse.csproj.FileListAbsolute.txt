@@ -1,0 +1,15 @@
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/bin/Debug/net7.0/Hedgehog&Horse
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/bin/Debug/net7.0/Hedgehog&Horse.deps.json
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/bin/Debug/net7.0/Hedgehog&Horse.runtimeconfig.json
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/bin/Debug/net7.0/Hedgehog&Horse.dll
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/bin/Debug/net7.0/Hedgehog&Horse.pdb
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/obj/Debug/net7.0/Hedgehog&Horse.csproj.AssemblyReference.cache
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/obj/Debug/net7.0/Hedgehog&Horse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/obj/Debug/net7.0/Hedgehog&Horse.AssemblyInfoInputs.cache
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/obj/Debug/net7.0/Hedgehog&Horse.AssemblyInfo.cs
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/obj/Debug/net7.0/Hedgehog&Horse.csproj.CoreCompileInputs.cache
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/obj/Debug/net7.0/Hedgehog&Horse.dll
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/obj/Debug/net7.0/refint/Hedgehog&Horse.dll
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/obj/Debug/net7.0/Hedgehog&Horse.pdb
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/obj/Debug/net7.0/Hedgehog&Horse.genruntimeconfig.cache
+/Users/ihorlenko/Projects/extra_csharp_course/hedgehog_on_horse/Hedgehog&Horse/Hedgehog&Horse/obj/Debug/net7.0/ref/Hedgehog&Horse.dll

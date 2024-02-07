@@ -10,6 +10,8 @@ public class Program
         int N = Convert.ToInt32(reader.ReadLine());
         string text = reader.ReadToEnd();
         writer.Write(text: text, justificationLimit: N);
+
+        reader.Close();
         writer.Close();
     }
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Hedgehog&Horse/1.0.0": {
+        "runtime": {
+          "Hedgehog&Horse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hedgehog&Horse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
