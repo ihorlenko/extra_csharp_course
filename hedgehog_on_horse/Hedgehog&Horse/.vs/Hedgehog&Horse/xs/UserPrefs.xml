@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{B6B02D71-F900-4559-A548-C6BD5B52918C}|Default">
-  <MonoDevelop.Ide.ItemProperties.Hedgehog_226Horse FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Hedgehog_226Horse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hedgehog&amp;Horse/Tests.txt">
+    <Files>
+      <File FileName="Hedgehog&amp;Horse/Program.cs" Line="14" Column="39" />
+      <File FileName="Hedgehog&amp;Horse/Tests.txt" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hedgehog&amp;Horse">
+            <Node name="Hedgehog&amp;Horse" expanded="True">
+              <Node name="Tests.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
